@@ -1,0 +1,33 @@
+<p> 1111 -> F
+0000 -> 0
+1111 -> F
+0000 -> 0
+
+Donc, 1111 0000 1111 0000 en base 16 est égal à F0F0.
+
+Conversion 2:
+
+
+1 -> 0001
+F -> 1111
+0 -> 0000
+
+Donc, 1F0 en base binaire est égal à 0001 1111 0000.
+
+Conversion 3:
+
+
+010 -> 0010
+
+Donc, 010 en base hexadécimale est égal à 2.
+
+Liste de trois langages interprétés:
+
+Python
+JavaScript
+Ruby
+Liste de trois langages compilés:
+
+C
+C++
+Java</p>
